@@ -1,4 +1,4 @@
-# scrapy-hoursepricing
+# scrapy-HousePricing
 
 (HousePricing)[https://github.com/PENGZhaoqing/HousePricing]的子项目，目的是实现对房价网站中的基本信息进行抓取
 
@@ -10,12 +10,12 @@
 
 ## 使用
 
-在终端中运行
+在终端中运行：
 
 ```
 git clone https://github.com/PENGZhaoqing/scrapy-HousePricing
 cd scrapy-HousePricing
-scrapy crawl quotes
+scrapy crawl anjuke
 ```
 
 ### 抓取数据文件
